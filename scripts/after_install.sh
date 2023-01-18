@@ -1,4 +1,4 @@
-cd /home/ec2-user/advanced_mern_social_project/backend
+cd /home/ec2-user/advanced_mern_project-updated
 sudo rm -rf env-file.zip
 sudo rm .env
 sudo rm .env.develop
